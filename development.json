@@ -1,0 +1,12 @@
+{
+    "master-iso":{"core":"master_iso"},
+    "maps-company":{"core":"maps_company"},
+    "maps-hotel":{"core":"maps_hotel"},
+    "maps-spbu":{"core":"maps_spbu"},
+    "maps-restaurant":{"core":"maps_restaurant"},
+    "config-user":{"core":"config_user"},
+    "log-login":{"core":"log_login"},
+    "log-query":{"core":"log_query"},
+    "backup-db":{"core":"backup_db"},
+    "error404":{"core":"error404"}
+}
